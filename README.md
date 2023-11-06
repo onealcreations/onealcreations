@@ -20,7 +20,9 @@
 
 <details>
 <summary><em>Currently Learning</em></summary>
+
 ![](https://img.shields.io/badge/Languages-Python-informational?style=flat&logo=python&logoColor=ffffff&color=red)
+
 </details>
 
 ![](https://img.shields.io/badge/Frameworks%20&%20Libraries-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=ffffff&color=red)

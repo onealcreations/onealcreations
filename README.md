@@ -58,7 +58,11 @@
 
 <h2>Let's Connect</h2>
 
-<a href="https://www.linkedin.com/in/benjaminoneal" target="_blank">![LinkedIn](https://img.shields.io/badge/benjaminoneal-eeeeee?style=social&logo=linkedin)&nbsp;</a>
+<a href="https://www.linkedin.com/in/benjaminoneal" target="_blank">
+
+![LinkedIn](https://img.shields.io/badge/benjaminoneal-eeeeee?style=social&logo=linkedin)&nbsp;
+
+</a>
 <!-- ADD LATER
 <a href="https://discord.com/users/USERNAME" target="_blank">![GMail](https://img.shields.io/badge/-EMAIL%20ADRESS-eeeeee?style=social&logo=gmail)&nbsp;</a>
 <a href="https://discord.com/users/USERNAME" target="_blank">![Discord](https://img.shields.io/badge/-Discord-eeeeee?style=social&logo=discord)&nbsp;</a>

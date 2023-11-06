@@ -1,4 +1,5 @@
-:[Benjamin's GitHub Banner](./assets/Header.jpg)
+![Benjamin's GitHub Banner](./assets/Header.jpg)
+
 
 <h1 align="center">Hey!  Nice to meet you.</h1>
 

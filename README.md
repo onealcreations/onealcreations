@@ -19,7 +19,7 @@
 ![](https://img.shields.io/badge/Languages-Markdown-informational?style=flat&logo=markdown&logoColor=ffffff&color=red)
 
 <details>
-<summary>*Currently Learning*</summary>
+<summary><em>Currently Learning</em></summary>
 ![](https://img.shields.io/badge/Languages-Python-informational?style=flat&logo=python&logoColor=ffffff&color=red)
 </details>
 
